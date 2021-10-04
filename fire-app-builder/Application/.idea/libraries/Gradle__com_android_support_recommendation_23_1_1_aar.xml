@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:recommendation:23.1.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/recommendation-23.1.1.aar/ce047c555807a6c78dc903ebab2e7c4d/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/recommendation-23.1.1.aar/ce047c555807a6c78dc903ebab2e7c4d/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/recommendation-23.1.1.aar/ce047c555807a6c78dc903ebab2e7c4d/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/recommendation-23.1.1.aar/ce047c555807a6c78dc903ebab2e7c4d/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

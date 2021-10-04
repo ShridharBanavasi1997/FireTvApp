@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.trello:rxlifecycle:0.4.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/rxlifecycle-0.4.0.aar/cdd4826fc6dff13bd13ca70cf2f661b9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/rxlifecycle-0.4.0.aar/cdd4826fc6dff13bd13ca70cf2f661b9/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/rxlifecycle-0.4.0.aar/cdd4826fc6dff13bd13ca70cf2f661b9/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

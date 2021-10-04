@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./../AMZNMediaPlayerComponent/libs/AMZNMediaPlayer.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../AMZNMediaPlayerComponent/libs/AMZNMediaPlayer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

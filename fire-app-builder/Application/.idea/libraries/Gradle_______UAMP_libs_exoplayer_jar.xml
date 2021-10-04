@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./../UAMP/libs/exoplayer.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../UAMP/libs/exoplayer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
